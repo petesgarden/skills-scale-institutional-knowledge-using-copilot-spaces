@@ -9,6 +9,7 @@ Execution is driven by clear ownership and cross-functional collaboration. Proje
 Quality assurance is embedded throughout delivery rather than treated as a final step. OctoAcme emphasizes unit tests for new logic, integration tests where applicable, end-to-end smoke tests for critical flows, CI-based linting and security scanning, and manual QA when needed for feature acceptance. The pull request workflow reinforces this quality bar through small PRs, linked issues and acceptance criteria, automated checks before review, and approval before merge. After release, retrospectives capture lessons learned and convert them into actionable improvements that can be tracked in the backlog or issue system.
 
 ## Documentation Index
+- [Docs README (this page)](./README.md)
 - [Project Management Overview](./octoacme-project-management-overview.md)
 - [Project Initiation Guide](./octoacme-project-initiation.md)
 - [Project Planning](./octoacme-project-planning.md)
